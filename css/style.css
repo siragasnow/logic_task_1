@@ -1,0 +1,10 @@
+#box {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #000;
+    margin-top: 30px;
+}
+
+.addBox {
+    background-color: rgb(24, 219, 229);
+}
